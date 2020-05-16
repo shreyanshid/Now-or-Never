@@ -3,4 +3,3 @@ pele jaoge
 printf("mjfjhfhjg");
 mbnvnmvmnbvnmb
 lllllllllllllllllllllllllllllllllllllll
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
